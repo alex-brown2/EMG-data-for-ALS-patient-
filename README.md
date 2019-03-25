@@ -15,6 +15,6 @@ Professor Alex Brown
 
 Royal Academy of Medicine of Belgium
 
-Rue Ducale 1, 1000 Bruxelles, Belgium
+Rue Ducale 1, 1000 Brussels, Belgium
 
 Phone: +32 2 550 22 55
