@@ -8,6 +8,8 @@ Here are some electromyography(EMG) data for 10 normal people (into 2 files) and
 These data can be used for any kind of signal processing and identification of motor neuron disease.
 Students and researcher can use this data.
 
+.
+
 
 Professor Alex Brown
 
